@@ -1,0 +1,90 @@
+body {
+  background-color: #fff;
+}
+.mui-content {
+  background-color: #fff;
+}
+/* �ֲ�ͼ��ҳ��ʽ СԲ��*/
+.mui-slider-indicator {
+  bottom: 18px;
+}
+/* ��������ʽ*/
+.nav-links {
+  padding: 10px;
+}
+.nav-links > a {
+  float: left;
+  width: 33.33%;
+}
+.nav-links > a > img {
+  width: 100%;
+}
+/*Ʒ��ר����ʽ*/
+.brand {
+  margin-top: 10px;
+  padding: 0 10px;
+}
+.brand > a {
+  width: 100%;
+}
+.brand > a > img {
+  width: 100%;
+}
+.brand > div > a {
+  float: left;
+  width: 25%;
+}
+.brand > div > a > img {
+  width: 100%;
+}
+/* �˶���������ʽ*/
+.motion {
+  padding: 0 10px;
+  margin: 10px 0;
+}
+.motion > a {
+  display: block;
+  padding-bottom: 10px;
+}
+.motion > a > img {
+  width: 100%;
+}
+.motion > ul > li {
+  width: 50%;
+  float: left;
+  padding: 5px;
+}
+.motion > ul > li > a {
+  padding: 5px;
+  display: block;
+  box-shadow: 0 0 5px #ccc;
+  text-align: center;
+}
+.motion > ul > li > a > img {
+  width: 100%;
+}
+.motion > ul > li > a > span:first-of-type {
+  display: block;
+  height: 44px;
+  padding: 6px;
+  line-height: 18px;
+  text-align: center;
+  overflow: hidden;
+  color: #cccccc;
+}
+.motion > ul > li > a > p {
+  text-align: center;
+}
+.motion > ul > li > a > p > span:first-of-type {
+  font-size: 12px;
+  color: #e92322;
+}
+.motion > ul > li > a > p > span:last-of-type {
+  font-size: 12px;
+  text-decoration: line-through;
+}
+.motion > ul > li > a > .mui-btn {
+  margin: 10px 0;
+  background-color: #01eeff;
+  color: #fff;
+}
